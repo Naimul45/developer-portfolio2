@@ -1,0 +1,45 @@
+body{
+  font-family:sans-serif;
+  margin:0px
+}
+h1{
+  font-size:50px;
+}
+h2{
+  font-size:40px;
+}
+.color{
+  color:orange
+}
+.container{
+  display:flex
+}
+.half-width{
+  width:50%;
+  padding:2%
+}
+.image img{
+  width:80%;
+  padding:2%
+}
+.hire{
+  text-decoration: none;
+  background-image: linear-gradient(tomato,orange);
+  padding:10px 40px;
+  border-radius:5px;
+  color:white;
+  font-size:23px
+}
+.bannar-pic{
+  background-image: url(/projects/developer-portfolio/images/top-banner.png);
+  background-repeat: no-repeat;
+}
+.flexible-container{
+  display:flex;
+  margin-top:100px;
+}
+.dream-big {
+  background-image: url(/projects/developer-portfolio/images/dream-bg.png);
+  background-repeat:no-repeat;
+  background-position:right
+}
