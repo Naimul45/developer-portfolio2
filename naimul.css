@@ -43,3 +43,32 @@ h2{
   background-repeat:no-repeat;
   background-position:right
 }
+.experience-area{
+  background-image: url(/projects/developer-portfolio/images/exp-bg.png);
+  background-repeat: no-repeat;
+  background-position: left;
+}
+.flexible-container{
+  display:flex
+}
+.experience-item{
+  width:40%;
+  margin-left:5%;
+  padding-left:10px;
+  box-shadow: 10px 10px 40px gray;
+  border-radius:10px;
+
+
+}
+#baby-web-developer{
+  border-left:7px solid blue
+}
+#full-stack-developer{
+  border-left:7px solid tomato
+}
+h3{
+  color:tomato
+}
+footer p{
+  text-align:center
+}

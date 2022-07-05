@@ -42,3 +42,6 @@ width:80%
   background-repeat: no-repeat;
   background-position: right;
 }
+.experience-area{
+  background-image: url(/projects/developer-portfolio/images/exp-bg.png);
+}
